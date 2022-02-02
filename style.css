@@ -1,4 +1,10 @@
 aside {
     padding-top: 10px;
     padding-bottom: 10px;
+    justify-content: left;
+    height: 100%;
+}
+
+.col-9 {
+    justify-content: right;
 }

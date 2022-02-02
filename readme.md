@@ -6,3 +6,7 @@ the app needs to have an icon for the conditions, wind speed, humidity, UV index
 The UV index should be colored with respect to the value (mild, moderate, extreme)
 There needs to be a displayed five day forecast for the selected city
 When a city is clicked from the search history, the weather should be shown for it
+
+I  was not  able to get the CSS to a satisfactory layout and style
+
+![Screenshot](assets/screenshot.png "I wish it looked good")![]
