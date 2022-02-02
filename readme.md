@@ -9,4 +9,7 @@ When a city is clicked from the search history, the weather should be shown for 
 
 I  was not  able to get the CSS to a satisfactory layout and style
 
-![Screenshot](assets/screenshot.png "I wish it looked good")![]
+![Screenshot](Assets/screenshot.png "I wish it looked good")
+
+github link [github](https://github.com/PastaShock/Weather-dashboard)
+pages link [githubpages](https://pastashock.github.io/Weather-dashboard/)
